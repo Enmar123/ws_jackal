@@ -4,3 +4,6 @@
 [submodule "src/sensors/sick_tim"]
 	path = src/sensors/sick_tim
 	url = https://github.com/Enmar123/sick_tim.git
+[submodule "src/sensors/usb_cam"]
+	path = src/sensors/usb_cam
+	url = https://github.com/Enmar123/usb_cam.git
