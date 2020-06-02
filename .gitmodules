@@ -1,3 +1,6 @@
 [submodule "src/sensors/rplidar_ros"]
 	path = src/sensors/rplidar_ros
 	url = https://github.com/Enmar123/rplidar_ros.git
+[submodule "src/sensors/sick_tim"]
+	path = src/sensors/sick_tim
+	url = https://github.com/Enmar123/sick_tim.git
