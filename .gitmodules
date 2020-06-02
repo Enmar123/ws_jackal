@@ -10,3 +10,6 @@
 [submodule "src/sensors/LMS1xx"]
 	path = src/sensors/LMS1xx
 	url = https://github.com/clearpathrobotics/LMS1xx.git
+[submodule "src/control/hector_slam"]
+	path = src/control/hector_slam
+	url = https://github.com/Enmar123/hector_slam.git
