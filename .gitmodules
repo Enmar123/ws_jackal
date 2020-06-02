@@ -7,3 +7,6 @@
 [submodule "src/sensors/usb_cam"]
 	path = src/sensors/usb_cam
 	url = https://github.com/Enmar123/usb_cam.git
+[submodule "src/sensors/LMS1xx"]
+	path = src/sensors/LMS1xx
+	url = https://github.com/clearpathrobotics/LMS1xx.git
