@@ -16,3 +16,6 @@
 [submodule "src/control/interactive_marker_twist_server"]
 	path = src/control/interactive_marker_twist_server
 	url = https://github.com/ros-visualization/interactive_marker_twist_server.git
+[submodule "src/control/slam_gmapping"]
+	path = src/control/slam_gmapping
+	url = https://github.com/Enmar123/slam_gmapping.git
