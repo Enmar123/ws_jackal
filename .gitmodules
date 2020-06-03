@@ -25,3 +25,6 @@
 [submodule "src/jackal"]
 	path = src/jackal
 	url = https://github.com/Enmar123/jackal.git
+[submodule "src/jackal_desktop"]
+	path = src/jackal_desktop
+	url = https://github.com/Enmar123/jackal_desktop.git
