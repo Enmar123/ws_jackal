@@ -19,3 +19,6 @@
 [submodule "src/control/slam_gmapping"]
 	path = src/control/slam_gmapping
 	url = https://github.com/Enmar123/slam_gmapping.git
+[submodule "src/control/twist_mux"]
+	path = src/control/twist_mux
+	url = https://github.com/Enmar123/twist_mux.git
