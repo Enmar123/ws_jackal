@@ -13,3 +13,6 @@
 [submodule "src/control/hector_slam"]
 	path = src/control/hector_slam
 	url = https://github.com/Enmar123/hector_slam.git
+[submodule "src/control/interactive_marker_twist_server"]
+	path = src/control/interactive_marker_twist_server
+	url = https://github.com/ros-visualization/interactive_marker_twist_server.git
