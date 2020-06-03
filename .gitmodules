@@ -34,3 +34,6 @@
 [submodule "src/jackal_simulator"]
 	path = src/jackal_simulator
 	url = https://github.com/Enmar123/jackal_simulator.git
+[submodule "src/robot_localization"]
+	path = src/robot_localization
+	url = https://github.com/Enmar123/robot_localization.git
