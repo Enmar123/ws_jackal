@@ -37,3 +37,6 @@
 [submodule "src/robot_localization"]
 	path = src/robot_localization
 	url = https://github.com/Enmar123/robot_localization.git
+[submodule "src/robot_state_publisher"]
+	path = src/robot_state_publisher
+	url = https://github.com/ros/robot_state_publisher.git
