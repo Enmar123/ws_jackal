@@ -1,42 +1,42 @@
 [submodule "src/sensors/rplidar_ros"]
 	path = src/sensors/rplidar_ros
-	url = https://github.com/Enmar123/rplidar_ros.git
+	url = https://github.com/fiu-arc-robotics/rplidar_ros.git
 [submodule "src/sensors/sick_tim"]
 	path = src/sensors/sick_tim
-	url = https://github.com/Enmar123/sick_tim.git
+	url = https://github.com/fiu-arc-robotics/sick_tim.git
 [submodule "src/sensors/usb_cam"]
 	path = src/sensors/usb_cam
-	url = https://github.com/Enmar123/usb_cam.git
+	url = https://github.com/fiu-arc-robotics/usb_cam.git
 [submodule "src/sensors/LMS1xx"]
 	path = src/sensors/LMS1xx
 	url = https://github.com/clearpathrobotics/LMS1xx.git
 [submodule "src/control/hector_slam"]
 	path = src/control/hector_slam
-	url = https://github.com/Enmar123/hector_slam.git
+	url = https://github.com/fiu-arc-robotics/hector_slam.git
 [submodule "src/control/interactive_marker_twist_server"]
 	path = src/control/interactive_marker_twist_server
 	url = https://github.com/ros-visualization/interactive_marker_twist_server.git
 [submodule "src/control/slam_gmapping"]
 	path = src/control/slam_gmapping
-	url = https://github.com/Enmar123/slam_gmapping.git
+	url = https://github.com/fiu-arc-robotics/slam_gmapping.git
 [submodule "src/control/twist_mux"]
 	path = src/control/twist_mux
-	url = https://github.com/Enmar123/twist_mux.git
+	url = https://github.com/fiu-arc-robotics/twist_mux.git
 [submodule "src/jackal"]
 	path = src/jackal
-	url = https://github.com/Enmar123/jackal.git
+	url = https://github.com/fiu-arc-robotics/jackal.git
 [submodule "src/jackal_desktop"]
 	path = src/jackal_desktop
-	url = https://github.com/Enmar123/jackal_desktop.git
+	url = https://github.com/fiu-arc-robotics/jackal_desktop.git
 [submodule "src/jackal_robot"]
 	path = src/jackal_robot
-	url = https://github.com/Enmar123/jackal_robot.git
+	url = https://github.com/fiu-arc-robotics/jackal_robot.git
 [submodule "src/jackal_simulator"]
 	path = src/jackal_simulator
-	url = https://github.com/Enmar123/jackal_simulator.git
+	url = https://github.com/fiu-arc-robotics/jackal_simulator.git
 [submodule "src/robot_localization"]
 	path = src/robot_localization
-	url = https://github.com/Enmar123/robot_localization.git
+	url = https://github.com/fiu-arc-robotics/robot_localization.git
 [submodule "src/robot_state_publisher"]
 	path = src/robot_state_publisher
 	url = https://github.com/ros/robot_state_publisher.git
