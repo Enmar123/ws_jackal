@@ -10,3 +10,7 @@ Before editing submodules don't forget to checkout the branch of interest so you
 head state.
 
   * git checkout <branch-to-edit> 
+
+To launch Jackal simulation
+
+  * roslaunch jackal_gazebo jackal_world.launch config:=mapping world:=tunnel.world
